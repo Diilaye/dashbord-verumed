@@ -71879,7 +71879,7 @@ return new A.oA(s,new A.a1Q(),new A.cj(B.O,r),new A.cj(B.O,r),new A.cj(B.O,r),ne
 $S:461}
 A.JJ.prototype={
 F(a,b){var s=null,r=A.atJ(B.hz,s,"Nunito",B.D,A.acd(s,s,s,s,s,s,s,s,s,s,s,s,s,s,s).a84(B.bL))
-return new A.yW(A.aE(["/",new A.a4r()],t.N,t.Ab),"/","Verummed Dashboard",r,!1,s)}}
+return new A.yW(A.aE(["/",new A.a4r()],t.N,t.Ab),"/","Verummed",r,!1,s)}}
 A.a4r.prototype={
 $1(a){return new A.m9(A.pr(),new A.a4q(),null,t.tN)},
 $S:462}
